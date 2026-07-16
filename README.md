@@ -5,12 +5,21 @@ The Cosmetics Insights Dashboard is a Business Intelligence project developed us
 The dashboard is designed to simplify complex datasets into clear and actionable insights, helping businesses understand market trends and assisting customers in making informed purchasing decisions.
 
 Key Features
+
 📊 Interactive Tableau Dashboard
+
 📈 KPI-based Business Insights
+
 🏷️ Brand and Category Analysis
+
 💰 Price Analysis
+
 ⭐ Product Rating Analysis
+
 🌿 Skin Type Analysis
+
 🎯 Interactive Filters
+
 📖 Tableau Story for Step-by-Step Insights
+
 ☁️ Published on Tableau Public
