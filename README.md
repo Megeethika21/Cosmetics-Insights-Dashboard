@@ -23,3 +23,5 @@ Key Features
 📖 Tableau Story for Step-by-Step Insights
 
 ☁️ Published on Tableau Public
+
+Live Demo Link: https://cosmatic-insight.netlify.app/ 
